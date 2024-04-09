@@ -1,0 +1,13 @@
+# NANMUDHALVAN_TUESDAYBATCH_PROJECT_FILES
+
+PROJECT CREATED BY : Akshay kumar T (5135_AMCET_513521243301)
+
+
+
+LOGIN DETAILS: akshay99@gmail.com
+
+
+UNAME: akshay99
+
+
+Password: akshay99
